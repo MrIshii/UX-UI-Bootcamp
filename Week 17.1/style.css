@@ -12,8 +12,8 @@ h1 {
     font-family: oswald;
     font-weight: 400;
     letter-spacing: 3px;
-    padding: 25px 0px 15px 50px;
-    margin: 0px 0px 0px 0px;
+    padding: 25px 0px 15px 0px;
+    margin: 0px 0px 0px 50px;
   }
   hr.stroke {
     border-top: .5px solid white;
@@ -26,6 +26,22 @@ p {
   font-weight: 100;
   font-size: 12px;
   line-height: 24px;
-  padding: 15px 50px 50px 50px;
+  padding: 20px 50px 0px 0px;
+  margin: 0px 0px 0px 50px;
+}
+a.credit {
+  color: #ffffff;
+  font-family: roboto;
+  font-weight: 100;
+  font-size: 12px;
+  padding: 0px 0px 0px 0px;
   margin: 0px 0px 0px 0px;
+}
+ul.list {
+  color: #ffffff;
+  font-family: roboto;
+  font-weight: 100;
+  font-size: 12px;
+  padding: 20px 0px 0px 0px;
+  margin: 0px 0px 50px 50px;
 }
